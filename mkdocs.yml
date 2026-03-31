@@ -1,13 +1,20 @@
-site_name: BDA Framework v2.0
-site_description: The Business Decision Architecture Framework by BC-DS
+site_name: BC-DS Framework Papers
+site_description: >
+  The Business Decision Architecture (BDA v2.1) and
+  Solo Decision Architecture (SDA v1.0) Frameworks by BC-DS
 site_author: Business Consultants for Digital Solutions, LLC
+
 theme:
   name: material
   palette:
     primary: indigo
     accent: blue
+
 nav:
   - Home: index.md
-  - The Framework: BDA_Framework_v2.md
-  - Appendix B (OCA): BDA_v2_Appendix_B_OCA.md
-  - Decisiontect: BDA_Appendix_C_Decisiontect.md
+  - "BDA Framework v2.1":
+    - The Framework: BDA_Framework_v2.md
+    - "Appendix B — OCA": BDA_v2_Appendix_B_OCA.md
+    - "Appendix C — Decisiontect": BDA_Appendix_C_Decisiontect.md
+  - "SDA Framework v1.0":
+    - The Framework: SDA_Framework_v1.0.md
