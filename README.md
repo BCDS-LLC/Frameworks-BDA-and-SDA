@@ -13,11 +13,11 @@ conditions under which consequential decisions are made — the UCADE Cycle,
 the ADICE Matrix, Strategic Friction, and the Three Organizational Altitudes.
 
 - [Read Online](https://bda-framework.bc-ds.com/BDA_Framework_v2/)
-- [Download PDF](https://bc-ds.com/wp-content/uploads/2026/03/BDA_Framework_v2_1.pdf)
+- [Download PDF](https://bc-ds.com/wp-content/uploads/2026/04/BDA_Framework_v2_1.pdf)
 
 **Appendices:**
-- [Appendix B — Organizational Translation Architecture](https://bda-framework.bc-ds.com/BDA_v2_Appendix_B_OCA/)
-- [Appendix C — The Decisiontect™ Ecosystem](https://bda-framework.bc-ds.com/BDA_Appendix_C_Decisiontect/)
+- [Appendix B — Organizational Translation Architecture](https://bc-ds.com/wp-content/uploads/2026/04/BDA_v2_1_Appendix_B.pdf)
+- [Appendix C — The Decisiontect™ Ecosystem](https://bc-ds.com/wp-content/uploads/2026/04/BDA_v2_1_Appendix_C.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ Hypothesis, the Stage 1 / Stage 2 AI Boundary, and the Dual Lens Diagnostic
 Instruments. The individual precondition BDA assumes has already occurred.
 
 - [Read Online](https://bda-framework.bc-ds.com/SDA_Framework_v1_0/)
-- [Download PDF](https://bc-ds.com/wp-content/uploads/2026/03/SDA_Framework_v1_0.pdf)
+- [Download PDF](https://bc-ds.com/wp-content/uploads/2026/04/SDA_Framework_v1_0.pdf)
 
 ---
 
