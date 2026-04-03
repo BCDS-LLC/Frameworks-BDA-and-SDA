@@ -13,6 +13,12 @@ theme:
   palette:
     primary: indigo
     accent: blue
+  features:
+    - navigation.tabs         # Moves top-level folders to a horizontal top menu
+    - navigation.sections     # Groups the sidebar cleanly
+    - navigation.top          # Adds a "Back to Top" button for long framework pages
+    - search.suggest          # Auto-suggests results as practitioners type in the search bar
+    - search.highlight        # Highlights the exact search term on the page
 
 nav:
   - Home: index.md
@@ -25,3 +31,6 @@ nav:
 
 markdown_extensions:
   - attr_list
+  - admonition                # Enables colored call-out boxes for important notes/warnings
+  - pymdownx.details          # Enables collapsible sections (great for long definitions)
+  - pymdownx.superfences      # Enhances code/JSON block rendering
