@@ -22,3 +22,6 @@ nav:
     - "Appendix C — Decisiontect": BDA_Appendix_C_Decisiontect.md
   - "SDA Framework v1.0":
     - The Framework: SDA_Framework_v1_0.md
+
+markdown_extensions:
+  - attr_list
