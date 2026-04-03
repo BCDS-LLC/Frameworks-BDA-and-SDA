@@ -34,3 +34,8 @@ markdown_extensions:
   - admonition                # Enables colored call-out boxes for important notes/warnings
   - pymdownx.details          # Enables collapsible sections (great for long definitions)
   - pymdownx.superfences      # Enhances code/JSON block rendering
+  
+extra:
+  analytics:
+    provider: google
+    property: G-KCW4Q9QZ5T
