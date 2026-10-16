@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use these frameworks, please cite them as below."
+title: "BC-DS Framework Papers: BDA v2.1 and SDA v1.0"
+authors:
+  - family-names: Hernandez
+    given-names: Monica M.
+    orcid: "https://orcid.org/0009-0006-3687-9530"
+  - family-names: Montero
+    given-names: Daniel A.
+    orcid: "https://orcid.org/0009-0007-9131-8557"
+date-released: 2026-04-03
+license: CC-BY-4.0
+repository-code: "https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA"
+url: "https://frameworks.bc-ds.com/"
+preferred-citation:
+  type: report
+  title: "Business Decision Architecture (BDA): A System Architecture for Decision-Making in the Age of AI"
+  authors:
+    - family-names: Hernandez
+      given-names: Monica M.
+      orcid: "https://orcid.org/0009-0006-3687-9530"
+    - family-names: Montero
+      given-names: Daniel A.
+      orcid: "https://orcid.org/0009-0007-9131-8557"
+  version: "2.1"
+  year: 2026
+  month: 3
+  publisher:
+    name: "BC-DS (Business Consultants for Digital Solutions, LLC)"
+  url: "https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA"
+references:
+  - type: report
+    title: "Solo Decision Architecture (SDA) Framework: An Operating System Powered by the Dual Lens Principle"
+    authors:
+      - family-names: Hernandez
+        given-names: Monica M.
+        orcid: "https://orcid.org/0009-0006-3687-9530"
+      - family-names: Montero
+        given-names: Daniel A.
+        orcid: "https://orcid.org/0009-0007-9131-8557"
+    version: "1.0"
+    year: 2026
+    month: 3
+    publisher:
+      name: "BC-DS (Business Consultants for Digital Solutions, LLC)"
+    url: "https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA"
