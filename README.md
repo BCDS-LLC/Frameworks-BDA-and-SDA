@@ -16,6 +16,8 @@ The current versions are on Zenodo:
 
 The first version of the BDA framework, v1.00 of 26 February 2026, is in [Daniel-ams/BDA-Framework-v-1.00](https://github.com/Daniel-ams/BDA-Framework-v-1.00).
 
+The publication history of these frameworks and of the papers that followed them, with the date each was first published and how to check it, is at [bcds-llc.github.io/publication-history](https://bcds-llc.github.io/publication-history/).
+
 ## The files
 
 All times are in UTC. Rockville was four hours behind UTC on these dates.
